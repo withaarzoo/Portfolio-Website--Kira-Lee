@@ -21,7 +21,7 @@ To get started with Kira Lee's Portfolio Website, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Portfolio-Website-KiraLee.git
+git clone https://github.com/withaarzoo/Portfolio-Website--Kira-Lee.git
 ```
 
 2. Open the project in your favorite code editor.
