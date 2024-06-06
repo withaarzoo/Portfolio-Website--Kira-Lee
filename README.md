@@ -4,7 +4,7 @@
 ![GitHub stars](https://shields.io/github/stars/withaarzoo/Portfolio-Website--Kira-Lee?style=social)
 ![GitHub forks](https://shields.io/github/forks/withaarzoo/Portfolio-Website--Kira-Lee?style=social)
 [![Twitter Follow](https://shields.io/twitter/follow/withaarzoo?style=social)](https://twitter.com/intent/follow?screen_name=withaarzoo)
-[![YouTube Video Views](https://shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SAu7e09vXoQ)
+[![YouTube Video Views](https://shields.io/youtube/views/SAu7e09vXoQ?style=social)](https://youtu.be/SXShIpZyf8w)
 
   <br />
   <br />
@@ -14,10 +14,10 @@
   Welcome to Kira Lee's Portfolio Website project! This repository contains the HTML and CSS code for creating a professional and responsive portfolio website to showcase Kira's work and achievements.
 
   <div>
-    <a href="https://youtu.be/3aYed6nMCcM"><strong>➥ Watch Tutorial</strong></a>
+    <a href="https://youtu.be/SXShIpZyf8w"><strong>➥ Watch Tutorial</strong></a>
     <br>
     <br>
-    <a href="https://youtu.be/3aYed6nMCcM"><strong>➥ Download Full Source Code</strong></a>
+    <a href="tel:+917586073575"><strong>➥ Download Full Source Code</strong></a>
   </div>
 
 </div>
@@ -43,15 +43,15 @@ git clone https://github.com/withaarzoo/Portfolio-Website--Kira-Lee.git
 
 ## Source Code
 
-You can find the complete source code for the GYM Project on Gumroad:
+You can find the complete source code for the Portfolio Project on WhatsApp:
 
-- [Click here](https://rb.gy/anckws)
+- +917586073575 ( WhatsApp )
 
 ## Video Tutorial
 
 Need some extra guidance? Watch our video tutorial on setting up and customizing your portfolio:
 
-- [Responsive GYM Project Tutorial](https://youtu.be/3aYed6nMCcM)
+- [Kira Lee's Portfolio Project Tutorial](https://youtu.be/SXShIpZyf8w)
 
 ## Connect with Me
 
